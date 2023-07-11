@@ -16,7 +16,8 @@ import torch.nn.functional as F
 
 from tensorboardX import SummaryWriter
 #修改测试，修改测试
-# test test
+# test
+# ssssss
 MY_DIRNAME = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(MY_DIRNAME, '..'))
 # sys.path.insert(0, os.path.join(MY_DIRNAME, '..', 'evaluate'))
